@@ -1,2 +1,4 @@
-# devops-assignment-1
-My first repository for DevOps Assignment 1: GitHub basics.
+## Branch Practice
+
+I created the assignment-notes branch
+to practise isolated changes.
